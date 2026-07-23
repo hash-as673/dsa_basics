@@ -6,5 +6,8 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(DSA_BASICS
 
 
-        MergeSort.cpp
+
+        QuickSort.cpp
+        BinarySearch.cpp
+        BinaryTree.cpp
 )
